@@ -1,7 +1,7 @@
 {
-  "name": "DevSage Adblocker",
+  "name": "Adblocker",
   "version": "1.0",
-  "description": "DevSage Adblocker Tutorial",
+  "description": "A chrome extension that blocks harassing ads",
   "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
   "background": {
     "scripts": ["background.js"]
